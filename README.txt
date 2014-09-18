@@ -1,5 +1,5 @@
 Clone from github
-git clone git@github.com:yuroyoro/dotfiles.git
+git clone git@github.com:kamikami2580/dotfiles.git 
 
 ln -s dotfiles/.zshrc ~/.zshrc
 
