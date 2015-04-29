@@ -1,0 +1,17 @@
+VimClojure
+emmet-vim
+grep.vim
+indentLine
+lightline.vim
+neobundle.vim
+neocomplcache
+neomru.vim
+neosnippet
+nerdtree
+syntastic
+unite.vim
+vim-autoclose
+vim-quickrun
+vim-slime
+vimproc
+vimshell
