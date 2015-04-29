@@ -120,6 +120,8 @@ let g:indentLine_color_gui = '#2a2a2a'
 let g:indentLine_indentLevel = 20
 
 let g:molokai_original = 1
+let g:unite_force_overwrite_statusline = 0
+let g:vimfiler_force_overwrite_statusline = 0
 set smartindent
 set tabstop=4
 set shiftwidth=4
